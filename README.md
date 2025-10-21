@@ -5,6 +5,7 @@ class SobreMim extends Desenvolvedor {
   nome = "Nícolas Bretschneider";
   area = "Desenvolvedor Front-End Júnior";
   trabalho = "Custom Code";
+  local = "Ivaiporã-PR";
 }
 
 class Skills extends Desenvolvedor {
