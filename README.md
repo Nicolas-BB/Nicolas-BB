@@ -10,7 +10,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens = ["HTML", "CSS", "JavaScript"];
-  bibliotecas = ["React"];
+  bibliotecas = ["React", "GSAP"];
 }
 ```
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-BB&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
